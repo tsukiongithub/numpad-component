@@ -10,6 +10,6 @@
 
 @layer components {
 	.numpad-btn {
-		@apply flex items-center justify-center rounded-full border-2 border-slate-700 p-4 text-2xl transition hover:bg-slate-800;
+		@apply flex items-center justify-center rounded-full border-2 border-slate-700 p-4 text-2xl transition hover:bg-slate-800 duration-75;
 	}
 }
